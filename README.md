@@ -1,8 +1,3 @@
-# Grace Shopper
+Welcome to Shiny Objects, an e-commerce website for jewelry. 
 
-By:
-
-* Emily McAllister
-* Guli Kholmatova
-* Kimberley Elcess
-* Norka Avalos
+To checkout out the website and buy something shiny, please, follow this link: http://grace-shopper-app.herokuapp.com
